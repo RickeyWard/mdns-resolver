@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/oznu/mdns-resolver#readme",
   "dependencies": {
-    "multicast-dns": "^7.0.0"
+    "mdns-server": "^1.0.8"
   },
   "devDependencies": {
     "@types/node": "^9.4.6",
