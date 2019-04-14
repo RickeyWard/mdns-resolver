@@ -4,6 +4,7 @@
   "description": "Resolve zeroconf .local domains using pure javascript.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "bin": "cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
