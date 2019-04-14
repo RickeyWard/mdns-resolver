@@ -24,7 +24,7 @@ mdnsResolver.resolve6('hostname.local')
 ```
 npm install -g git+https://github.com/RickeyWard/mdns-resolver.git
 ```
-## CLI usage
+## CLI Usage
 pass hostname you want to resolve the IP of
 ```
 mdns-resolver octopi.local
