@@ -1,7 +1,7 @@
 'use strict';
 
 import * as util from 'util';
-import * as MDNS from 'multicast-dns';
+import * as MDNS from 'mdns-server';
 
 const resolver = (hostname: string, rrtype: 'A'|'AAAA'|'PTR'|'TXT'|'SRV'|'HINFO', callback: Function) => {
   const mdns = MDNS();
